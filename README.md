@@ -1,3 +1,5 @@
+2024-12-13
+
 # Astro Starter Kit: Minimal
 
 ```sh
